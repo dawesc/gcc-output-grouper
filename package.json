@@ -1,0 +1,14 @@
+{
+  "name": "gccoutputparser",
+  "version": "1.0.0",
+  "description": "Util for looking at our errors",
+  "main": "index.js",
+  "scripts": {},
+  "author": "EFTlab",
+  "license": "ISC",
+  "dependencies": {
+    "gcc-output-parser": "0.0.4",
+    "get-stdin": "^6.0.0",
+    "underscore": "^1.9.1"
+  }
+}
